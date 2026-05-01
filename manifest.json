@@ -1,0 +1,21 @@
+{
+  "name": "巡店路线规划",
+  "short_name": "巡店规划",
+  "description": "巡店督导路线规划工具",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F8FC",
+  "theme_color": "#4F6EF7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
